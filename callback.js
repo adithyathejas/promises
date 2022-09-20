@@ -34,7 +34,7 @@ function createPost(post){
 }
 
 
-async function deletepost(){
+ function deletepost(){
         return new Promise((resolve,reject)=>{
             setTimeout(() => {
           let del = posts.pop()
