@@ -50,7 +50,6 @@ function deletepost(){
     
 } 
 
-deletepost().then(getPosts)
-deletepost().then(getPosts).catch(err=>console.log(err))
-deletepost().then(getPosts).catch(err=>console.log(err))
-deletepost().then(getPosts).catch(err=>console.log(err))
+let page = async function (){
+    let 
+} 
